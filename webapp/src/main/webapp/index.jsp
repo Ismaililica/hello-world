@@ -1,7 +1,8 @@
 php">
   <div class="container">
     <h1>Ben Basagimi Coooook Seviyorummmmm</h1>
-    <p>COOOOK ASİGİM CANIM ASKİMMMMM</p>
+    <p>COOOOK ASİGİM CANIM ASKİMMMM</p>
+    <p>Coook SEVIYOM EVLENCEZ SENINLE BASAGIM BENIM ISMAIL ILICA BASAK ILICA</p>
     <hr>
     <br>
 
